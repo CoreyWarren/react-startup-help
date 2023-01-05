@@ -1,6 +1,6 @@
 # How to start a react app.
 
-**1)** Navigate to your desired folder.
+**1)** Navigate to your desired folder (aka parent directory).
 
 **2)** In console, type:
 ```
