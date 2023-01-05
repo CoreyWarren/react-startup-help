@@ -1,6 +1,7 @@
 # How to start a react app.
 
 **1)** Navigate to your desired folder.
+
 **2)** In console, type:
 ```
 npx create-react-app my_app_name
