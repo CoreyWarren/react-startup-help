@@ -1,4 +1,4 @@
-# How to start a react app.
+# How to start a react app. (React 18)
 
 **1)** Navigate to your desired folder (aka parent directory).
 
