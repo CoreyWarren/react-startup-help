@@ -12,7 +12,7 @@ npx create-react-app my_app_name
 ```
 cd my_app_name
 ```
-**4)** "NPM Install" React-Redux and Redux Toolkit (examples) INSIDE of your project folder, not the parent directory:
+**4)** "NPM Install" your libraries INSIDE of your project folder, not the parent directory:
 ```
 npm install react-redux @reduxjs/toolkit
 ```
