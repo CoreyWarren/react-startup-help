@@ -1,4 +1,6 @@
-# How to start a react app. (React version 18)
+# How to start a React app.
+
+### _(React version 18)_
 
 **1)** Navigate to your desired folder (aka parent directory).
 
