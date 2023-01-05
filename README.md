@@ -1,19 +1,19 @@
 # How to start a react app.
 
-1) Navigate to your desired folder.
-2) In console, type:
+**1)** Navigate to your desired folder.
+**2)** In console, type:
 ```
 npx create-react-app my_app_name
 ```
-3) Navigate inside your project:
+**3)** Navigate inside your project:
 ```
 cd my_app_name
 ```
-4) "NPM Install" React-Redux and Redux Toolkit (examples) INSIDE of your project folder, not the parent directory:
+**4)** "NPM Install" React-Redux and Redux Toolkit (examples) INSIDE of your project folder, not the parent directory:
 ```
 npm install react-redux @reduxjs/toolkit
 ```
-5) Make sure your index.js follows standard React 18 'ReactDOM' syntax when it comes to rendering the DOM:
+**5)** Make sure your index.js follows standard React 18 'ReactDOM' syntax when it comes to rendering the DOM:
 ```js
 // PROPER:
 import { createRoot } from 'react-dom/client'
