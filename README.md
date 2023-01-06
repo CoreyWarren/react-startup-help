@@ -34,6 +34,9 @@ d-----          1/5/20XX   2:54 PM                src
 npm install react-redux @reduxjs/toolkit
 ```
 **5)** Make sure your index.js follows standard React 18 'ReactDOM' syntax when it comes to rendering the DOM:
+
+> Tutorials from React 17 and before will cause you great pain if you ignore this tip! 
+> 
 ```js
 // PROPER:
 import { createRoot } from 'react-dom/client'
