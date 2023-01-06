@@ -8,9 +8,26 @@
 ```
 npx create-react-app my_app_name
 ```
-**3)** Navigate inside your project:
+**3)** Navigate inside your project, then type 'ls' to confirm where you are:
 ```
-cd my_app_name
+PS C:\Users\Corey\parent\> cd my_app_name
+PS C:\Users\Corey\parent\my_app_name\> ls
+
+
+
+    Directory: C:\Users\Corey\parent\my_app_name\>
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+d-----          1/5/20XX   2:53 PM                node_modules
+d-----          1/5/20XX   2:51 PM                public
+d-----          1/5/20XX   2:54 PM                src
+-a----          1/5/20XX   2:51 PM            310 .gitignore
+-a----          1/5/20XX   2:53 PM        1214273 package-lock.json
+-a----          1/5/20XX   2:53 PM            867 package.json
+-a----          1/5/20XX   2:51 PM           3359 README.md
+
+
 ```
 **4)** "NPM Install" your libraries INSIDE of your project folder, not the parent directory:
 ```
