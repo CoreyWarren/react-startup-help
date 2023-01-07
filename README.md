@@ -1,5 +1,9 @@
 # How to start a React app.
 
+> Question: Why?
+
+> > Failing to follow these instructions may lead to the infamous "invalid hook call" error in React. You may experience this as a new React developer often. You will wonder "Why does every app I start with always get this stupid invalid hook call error thing? I followed the tutorial word for word." The answer to that question is that not every tutorial shows you the initial 'npm install' and 'npx create-react-app' setup footage. So here's some help with the initial setup of React.
+
 ### _(React version 18)_
 
 **1)** Navigate to your desired folder (aka parent directory).
